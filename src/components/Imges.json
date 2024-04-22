@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "normal": "/images/image-product-1.jpg",
+        "thumbal": "/images/image-product-1-thumbnail.jpg"
+    },
+    {
+        "id": 2,
+        "normal": "/images/image-product-2.jpg",
+        "thumbal": "/images/image-product-2-thumbnail.jpg"
+    },
+    {
+        "id": 3,
+        "normal": "/images/image-product-3.jpg",
+        "thumbal": "/images/image-product-3-thumbnail.jpg"
+    },
+    {
+        "id": 4,
+        "normal": "/images/image-product-4.jpg",
+        "thumbal": "/images/image-product-4-thumbnail.jpg"
+    }
+   
+]
